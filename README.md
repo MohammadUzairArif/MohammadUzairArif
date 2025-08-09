@@ -65,6 +65,3 @@ Currently expanding my expertise in **.NET Development** while continuing to wor
 💻 **GitHub:** [github.com/MohammadUzairArif](https://github.com/MohammadUzairArif)  
 
 
-
-### ✍ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
