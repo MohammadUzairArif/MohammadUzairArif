@@ -64,13 +64,7 @@ Currently expanding my expertise in **.NET Development** while continuing to wor
 💼 **LinkedIn:** [linkedin.com/in/uzair-arif](https://www.linkedin.com/in/uzair-arif-609204293/)  
 💻 **GitHub:** [github.com/MohammadUzairArif](https://github.com/MohammadUzairArif)  
 
----
 
-⭐ **Tip:** Add this README to your GitHub profile repository named **`MohammadUzairArif`** to make it your default profile page.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzair-arif-609204293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-
----
 
 ### ✍ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
