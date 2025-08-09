@@ -3,7 +3,7 @@ Hi, I'm Muhammad Uzair!
 I'm a Full-Stack Developer with a strong passion for building dynamic, efficient, and scalable web applications.  
 I specialize in the MERN stack and modern UI frameworks to create seamless and engaging user experiences.  
 
-📚 Currently Exploring: Next.js | TypeScript  
+📚 Currently Exploring: DotNet Development  
 🚀 Always learning and open to collaborations!  
 
 ---
